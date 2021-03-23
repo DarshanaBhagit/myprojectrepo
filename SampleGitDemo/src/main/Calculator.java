@@ -24,6 +24,11 @@ public class Calculator {
 	public static void square(int num1,int num2){
 	      System.out.println(num1*num2);
 	  }
+	public static void quadra(int num1,int num2){
+	      System.out.println(num1*num1*num2);
+	  }
+	
+	
 
 	public static void div(int num1,int num2){
 	      System.out.println(num1/num2);
