@@ -31,8 +31,6 @@ public class Calculator {
 	      System.out.println(num1*num1*num2);
 	  }
 	
-	
-
 	public static void div(int num1,int num2){
 	      System.out.println(num1/num2);
 	  }
@@ -48,11 +46,15 @@ public class Calculator {
 	public static void six(int num1,int num2){
 	      System.out.println(num1*num1*num2);
 	  }
-	
+
 	public static void br1func1(int num1,int num2){
 	      System.out.println(num1*num1*num2);
 	  }
-	public static void br1func2(int num1,int num2){
+	
+	public static void masterfunc1(int num1,int num2){
+	      System.out.println(num1*num1*num2);
+	  }
+	public static void masterfunc2(int num1,int num2){
 	      System.out.println(num1*num1*num2);
 	  }
 }
